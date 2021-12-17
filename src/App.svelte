@@ -4,6 +4,7 @@
 	import HeroCardBackground from "./HeroCardBackground.svelte";
 	import Navigation from "./Navigation.svelte";
 	import Team from "./Team.svelte";
+	import Testimonial from "./Testimonial.svelte";
 	import Footer from "./Footer.svelte";
 </script>
 
@@ -14,5 +15,6 @@
 	<Navigation />
 	<HeroCardBackground />
 	<Team />
+	<Testimonial />
 </main>
 <Footer />
