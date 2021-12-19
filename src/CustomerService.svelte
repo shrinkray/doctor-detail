@@ -8,11 +8,11 @@
         <p class="mt-4 text-gray-500">At the beginning at least, but then we realized we could make a lot more money if we kinda stopped caring about that. Our new strategy is to write a bunch of things that look really good in the headlines, then clarify in the small print but hope people don't actually read it.</p>
       </div>
       <div class="mt-16 grid grid-cols-1 gap-y-10 gap-x-8 lg:grid-cols-3">
-        <div class="sm:flex lg:block">
-          <div class="aspect-w-3 aspect-h-2">
+        <div class="sm:flex sm:items-center lg:block">
+          <div class='w-auto aspect-h-2 sm:w-full lg:aspect-h-2 lg:aspect-w-3'>
             <img class="object-cover shadow-lg rounded-lg" src="https://images.unsplash.com/photo-1625690180114-5530b1304127?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="">
           </div>
-          <div class="mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
+          <div class="sm:w-full mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
             <h3 class="text-lg font-medium text-gray-900">
               Attention to You
             </h3>
@@ -22,11 +22,11 @@
           </div>
         </div>
 
-        <div class="sm:flex lg:block">
-          <div class="aspect-w-3 aspect-h-2">
+        <div class="sm:flex sm:items-center sm:flex-row-reverse lg:block">
+          <div class='w-auto aspect-h-2 sm:w-full lg:aspect-h-2 lg:aspect-w-3'>
             <img class="object-cover shadow-lg rounded-lg" src="https://images.unsplash.com/photo-1529438636731-b4c5c3098b89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80" alt="">
           </div>
-          <div class="mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
+          <div class="sm:w-full mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
             <h3 class="text-lg font-medium text-gray-900">
               Exceptional Details for Classy Clients
             </h3>
@@ -36,11 +36,11 @@
           </div>
         </div>
 
-        <div class="sm:flex lg:block">
-          <div class="aspect-w-3 aspect-h-2">
+        <div class="sm:flex sm:items-center lg:block">
+          <div class='w-auto aspect-h-2 sm:w-full lg:aspect-h-2 lg:aspect-w-3'>
             <img class="object-cover shadow-lg rounded-lg" src="https://images.unsplash.com/photo-1444947295498-07f60c19a4ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="">
           </div>
-          <div class="mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
+          <div class="sm:w-full mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
             <h3 class="text-lg font-medium text-gray-900">
               We love beautiful cars
             </h3>
