@@ -26,7 +26,7 @@
           <div class='w-auto aspect-h-2 sm:w-full lg:aspect-h-2 lg:aspect-w-3'>
             <img class="object-cover shadow-lg rounded-lg" src="https://images.unsplash.com/photo-1529438636731-b4c5c3098b89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80" alt="">
           </div>
-          <div class="sm:w-full mt-4 sm:mt-0 sm:ml-6 lg:mt-6 lg:ml-0">
+          <div class="sm:w-full mt-4 sm:mt-0 sm:mr-6 lg:mt-6 lg:ml-0">
             <h3 class="text-lg font-medium text-gray-900">
               Exceptional Details for Classy Clients
             </h3>
